@@ -2,11 +2,13 @@
     "recommendations": [
         "cschlosser.doxdocgen",
         "esbenp.prettier-vscode",
+        "jbenden.c-cpp-flylint",
         "mhutchie.git-graph",
         "ms-azuretools.vscode-docker",
         "ms-ceintl.vscode-language-pack-ja",
         "ms-python.python",
         "ms-python.vscode-pylance",
+        "ms-vscode.cpptools-extension-pack",
         "njpwerner.autodocstring",
         "visualstudioexptteam.vscodeintellicode-completions",
         "visualstudioexptteam.vscodeintellicode",
