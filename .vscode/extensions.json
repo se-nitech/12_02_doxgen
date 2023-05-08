@@ -1,9 +1,19 @@
 {
     "recommendations": [
+        "cschlosser.doxdocgen",
+        "esbenp.prettier-vscode",
+        "mhutchie.git-graph",
+        "ms-azuretools.vscode-docker",
         "ms-ceintl.vscode-language-pack-ja",
         "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "visualstudioexptteam.vscodeintellicode-completions",
         "visualstudioexptteam.vscodeintellicode",
-        "mhutchie.git-graph",
-        "cschlosser.doxdocgen"
+        // --- experimental ---
+        // "ms-python.autopep8",
+        // "ms-python.black-formatter",
+        // "ms-python.flake8",
+        // "ms-python.pylint",
     ]
 }
